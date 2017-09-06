@@ -1,0 +1,14 @@
+{
+  "name": "good-day",
+  "version": "1.0.0",
+  "description": "A simple greeter that knows morning from night time",
+  "main": "build/greeting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.5.2"
+  }
+}
